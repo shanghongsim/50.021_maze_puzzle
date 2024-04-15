@@ -1,0 +1,24 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "maze": {
+      "shape": [
+        13,
+        13
+      ],
+      "dtype": "int32",
+      "_type": "Array2D"
+    },
+    "groundtruth": {
+      "shape": [
+        13,
+        13
+      ],
+      "dtype": "int32",
+      "_type": "Array2D"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
